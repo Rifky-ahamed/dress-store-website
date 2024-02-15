@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:  "Lucida Sans";
+    box-sizing: border-box;
+}
+
+.logo{
+    background: url("resourses/logo3.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100px;
+ 
+}
+
+.wel-bag{
+    background: url("resourses/d.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    height: 100vh;
+
+}
+.wel-con{
+    color: #c5c5c5;
+}
+.wel-con h5 {
+    font-weight: bold;
+    font-size: 55px;
+}
+.wel-con p{
+    letter-spacing: 10px;
+    font-family: "monospace";
+}
+.wel-con h3{
+    margin-right: 280px;
+}
+.product{
+    background: url("resourses/blur2.jpg");
+    height: max-content;
+    background-repeat: repeat-y;
+    background-size: cover;
+    
+}
+/* zacky home */
+.productt{
+    background: url("resourses/cl2.jpeg");
+    height: max-content;
+    background-repeat: repeat-y;
+    background-size: cover;
+    
+}
+.producte{
+    background: url("resourses/cl.jpeg");
+    height: max-content;
+    background-repeat: repeat-y;
+    background-size: cover;
+    
+}
+
+.products{
+    background: url("resourses/blurp.jpg");
+    height: max-content;
+    background-repeat: repeat-y;
+    background-size: cover;
+    
+}
+
+.productL{
+    background: url("resourses/blurl.jpeg");
+    height: max-content;
+    background-repeat: repeat-y;
+    background-size: cover;
+    
+}
+
+.pro-tit{
+    color: whitesmoke;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Gill Sans';
+}
+
+
+.buttt{
+    height: 50px;
+    border-radius: 10px;
+    background-color:beige;
+}
+
+.clo{
+    color:black;
+    
+}
+
+.size{
+    height: 500px;
+}
+
+.imc{
+    height: 500px;
+}
+
+.cl{
+    background-color:whitesmoke;
+    
+}
+.si{
+    height: 150px;
+}
+
+.fon{
+    font-size :x-large;
+  font-family: 'Times New Roman', Times, serif;
+  font-style:oblique;
+  
+}
+
+.fo{
+    font-size: larger;
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-style: italic;
+}
+ 
+.b{
+    background-color:whitesmoke;
+}
+
+
+
+
+
+  
+
+
+
+
+
